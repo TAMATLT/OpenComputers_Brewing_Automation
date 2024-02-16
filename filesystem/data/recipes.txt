@@ -1,0 +1,4 @@
+Awkward Potion,Water Bottle,-1,Nether Wart
+Potion of Healing,Awkward Potion,3,Glistering Melon
+Splash Potion of Healing,Potion of Healing,5,Gunpowder
+Splash Potion of Healing II,Splash Potion of Healing,5,Glowstone Dust
